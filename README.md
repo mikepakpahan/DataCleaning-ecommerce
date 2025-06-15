@@ -91,8 +91,7 @@ Markdown
 
 Berikut adalah tata letak file dan folder dalam repositori ini:
 
-**↓ TAMBAHKAN INI ↓**
-
+```
 DataCleaning-ecommerce/
 │
 ├── 📂 dataset/
@@ -105,8 +104,7 @@ DataCleaning-ecommerce/
 ├── 📄 dashboard.py                      # <-- Script utama untuk aplikasi dashboard Streamlit
 ├── 📄 requirements.txt                 # <-- Daftar library yang dibutuhkan untuk menjalankan proyek
 └── 📄 README.md                         # <-- File yang sedang Anda baca ini
-
-**↑ TAMBAHKAN INI ↑**
+```
 
 **Penjelasan Singkat:**
 * **`dataset/`**: Folder ini berisi semua file data, baik yang mentah (`inventory_item.csv`) maupun yang sudah bersih (`inventory_item_cleaned_final.csv`).

@@ -7,6 +7,8 @@
 
 Selamat datang di ruang mesin analisis saya! Proyek ini adalah sebuah perjalanan untuk mengubah data mentah kinerja produk e-commerce menjadi sebuah dashboard analitis yang interaktif dan penuh wawasan.
 
+Kaggle Dataset [(Link Download)](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset?select=inventory_items.csv)
+
 ### 📸 Demo Dashboard
 
 ![Screenshot 2025-06-15 144308](https://github.com/user-attachments/assets/119d223c-3bcc-45f7-82f5-56492ea734e0)
